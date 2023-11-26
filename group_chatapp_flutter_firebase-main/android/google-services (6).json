@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905471288182",
+    "project_id": "aiuconnect-3055d",
+    "storage_bucket": "aiuconnect-3055d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905471288182:android:bbcabb6cb4b80932e0d057",
+        "android_client_info": {
+          "package_name": "com.example.aiuconnectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAol2nj2oz2AxO23Yc90KvYytu1_vEwSxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
